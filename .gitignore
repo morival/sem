@@ -68,5 +68,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
-
+### idea folder ###
 .idea
